@@ -36,6 +36,18 @@ img {
     border: 3px solid #FF69B4;
     box-shadow: 10px 5px #FF9CCE;
 }
+/* design the main element  */
+.mbox {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+p {
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+}
 
 /* design the button  */
 button {
